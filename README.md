@@ -6,7 +6,7 @@
 
 ## Overview
 
-I work on a collection of projects that leverage the Solana blockchain for algorithmic trading and portfolio management. While I enjoy experimenting with various platforms, my primary focus is the **Solana Trading Bot**—a fully automated trading system designed for the Solana blockchain. This bot integrates data ingestion, strategy execution, risk management, and real-time monitoring in a modular, automated approach.
+I work on a collection of projects that leverage the Solana blockchain for algorithmic trading and portfolio management. While I enjoy experimenting with various platforms, my primary focus is the **Solana Trading Bot**—a fully automated trading system designed for the Solana blockchain. This bot integrates data ingestion, strategy execution, risk management, and real-time monitoring in a modular, automated approach .
 
 ---
 
