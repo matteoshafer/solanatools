@@ -1,4 +1,4 @@
-# Solana Trading Tools Suite
+# Solana Trading Tools Suite 
 
 **Algorithmic Trading Infrastructure for Solana Cryptocurrencies**
 
